@@ -60,7 +60,10 @@ var translations = {
         "review-textarea-placeholder": "Write your review here or let AI help you...",
         "testimonial-textarea-placeholder": "Write your testimonial here or let AI help you...",
         "thank-you-title": "Thank you!",
-        "thank-you-message": "We truly appreciate you taking the time to complete our survey. Your feedback helps us improve our services."
+        "thank-you-message": "We truly appreciate you taking the time to complete our survey. Your feedback helps us improve our services.",
+        "powered-by": "Powered by",
+        "try-free": "Try it for Free",
+        "powered-by-title": "Try 360Pulse Continuous Feedback Surveys for Free"
     },
     "es": {
         "testimonial": "Testimonio",
@@ -84,7 +87,10 @@ var translations = {
         "review-textarea-placeholder": "Escribe tu reseña aquí o deja que la IA te ayude...",
         "testimonial-textarea-placeholder": "Escribe tu testimonio aquí o deja que la IA te ayude...",
         "thank-you-title": "¡Gracias!",
-        "thank-you-message": "Realmente apreciamos que te hayas tomado el tiempo para completar nuestra encuesta. Tus comentarios nos ayudan a mejorar nuestros servicios."
+        "thank-you-message": "Realmente apreciamos que te hayas tomado el tiempo para completar nuestra encuesta. Tus comentarios nos ayudan a mejorar nuestros servicios.",
+        "powered-by": "Desarrollado por",
+        "try-free": "Pruébalo gratis",
+        "powered-by-title": "Prueba las encuestas de retroalimentación continua 360Pulse gratis"
     },
     "fr": {
         "testimonial": "Témoignage",
@@ -108,7 +114,10 @@ var translations = {
         "review-textarea-placeholder": "Écrivez votre avis ici ou laissez l'IA vous aider...",
         "testimonial-textarea-placeholder": "Écrivez votre témoignage ici ou laissez l'IA vous aider...",
         "thank-you-title": "Merci !",
-        "thank-you-message": "Nous vous remercions sincèrement d'avoir pris le temps de répondre à notre sondage. Vos commentaires nous aident à améliorer nos services."
+        "thank-you-message": "Nous vous remercions sincèrement d'avoir pris le temps de répondre à notre sondage. Vos commentaires nous aident à améliorer nos services.",
+        "powered-by": "Propulsé par",
+        "try-free": "Essayez-le gratuitement",
+        "powered-by-title": "Essayez les sondages de rétroaction continue 360Pulse gratuitement"
     },
     "de": {
         "testimonial": "Erfahrungsbericht",
@@ -132,7 +141,10 @@ var translations = {
         "review-textarea-placeholder": "Schreiben Sie Ihre Bewertung hier oder lassen Sie die KI Ihnen helfen...",
         "testimonial-textarea-placeholder": "Schreiben Sie Ihren Erfahrungsbericht hier oder lassen Sie die KI Ihnen helfen...",
         "thank-you-title": "Vielen Dank!",
-        "thank-you-message": "Wir schätzen es sehr, dass Sie sich die Zeit genommen haben, unsere Umfrage auszufüllen. Ihr Feedback hilft uns, unsere Dienstleistungen zu verbessern."
+        "thank-you-message": "Wir schätzen es sehr, dass Sie sich die Zeit genommen haben, unsere Umfrage auszufüllen. Ihr Feedback hilft uns, unsere Dienstleistungen zu verbessern.",
+        "powered-by": "Bereitgestellt von",
+        "try-free": "Kostenlos testen",
+        "powered-by-title": "Testen Sie 360Pulse kontinuierliche Feedback-Umfragen kostenlos"
     },
     "zh": {
         "testimonial": "推荐",
@@ -156,7 +168,10 @@ var translations = {
         "review-textarea-placeholder": "在此处撰写您的评价或让AI帮助您...",
         "testimonial-textarea-placeholder": "在此处撰写您的推荐或让AI帮助您...",
         "thank-you-title": "谢谢！",
-        "thank-you-message": "非常感谢您抽出时间完成我们的调查。您的反馈帮助我们改进服务。"
+        "thank-you-message": "非常感谢您抽出时间完成我们的调查。您的反馈帮助我们改进服务。",
+        "powered-by": "技术支持",
+        "try-free": "免费试用",
+        "powered-by-title": "免费试用 360Pulse 持续反馈调查"
     },
     "ja": {
         "testimonial": "推薦文",
@@ -180,7 +195,10 @@ var translations = {
         "review-textarea-placeholder": "ここにレビューを書くか、AIに手伝ってもらいましょう...",
         "testimonial-textarea-placeholder": "ここに推薦文を書くか、AIに手伝ってもらいましょう...",
         "thank-you-title": "ありがとうございます！",
-        "thank-you-message": "アンケートにお時間を割いていただき、誠にありがとうございます。あなたのフィードバックは、私たちのサービス向上に役立ちます。"
+        "thank-you-message": "アンケートにお時間を割いていただき、誠にありがとうございます。あなたのフィードバックは、私たちのサービス向上に役立ちます。",
+        "powered-by": "提供",
+        "try-free": "無料でお試し",
+        "powered-by-title": "360Pulse継続的フィードバック調査を無料でお試しください"
     },
     "ko": {
         "testimonial": "추천사",
@@ -204,7 +222,10 @@ var translations = {
         "review-textarea-placeholder": "여기에 리뷰를 작성하거나 AI의 도움을 받으세요...",
         "testimonial-textarea-placeholder": "여기에 추천사를 작성하거나 AI의 도움을 받으세요...",
         "thank-you-title": "감사합니다!",
-        "thank-you-message": "설문조사를 완료해 주셔서 진심으로 감사드립니다. 귀하의 피드백은 저희 서비스 개선에 도움이 됩니다."
+        "thank-you-message": "설문조사를 완료해 주셔서 진심으로 감사드립니다. 귀하의 피드백은 저희 서비스 개선에 도움이 됩니다.",
+        "powered-by": "제공",
+        "try-free": "무료로 사용해 보기",
+        "powered-by-title": "360Pulse 지속적 피드백 설문조사를 무료로 사용해 보세요"
     },
     "it": {
         "testimonial": "Testimonianza",
@@ -228,7 +249,10 @@ var translations = {
         "review-textarea-placeholder": "Scrivi qui la tua recensione o lascia che l'IA ti aiuti...",
         "testimonial-textarea-placeholder": "Scrivi qui la tua testimonianza o lascia che l'IA ti aiuti...",
         "thank-you-title": "Grazie!",
-        "thank-you-message": "Apprezziamo davvero che tu abbia dedicato del tempo a completare il nostro sondaggio. Il tuo feedback ci aiuta a migliorare i nostri servizi."
+        "thank-you-message": "Apprezziamo davvero che tu abbia dedicato del tempo a completare il nostro sondaggio. Il tuo feedback ci aiuta a migliorare i nostri servizi.",
+        "powered-by": "Offerto da",
+        "try-free": "Provalo gratuitamente",
+        "powered-by-title": "Prova gratuitamente i sondaggi di feedback continuo 360Pulse"
     },
     "pt": {
         "testimonial": "Depoimento",
@@ -252,7 +276,10 @@ var translations = {
         "review-textarea-placeholder": "Escreva sua avaliação aqui ou deixe a IA ajudá-lo...",
         "testimonial-textarea-placeholder": "Escreva seu depoimento aqui ou deixe a IA ajudá-lo...",
         "thank-you-title": "Obrigado!",
-        "thank-you-message": "Agradecemos sinceramente por você ter dedicado tempo para preencher nossa pesquisa. Seu feedback nos ajuda a melhorar nossos serviços."
+        "thank-you-message": "Agradecemos sinceramente por você ter dedicado tempo para preencher nossa pesquisa. Seu feedback nos ajuda a melhorar nossos serviços.",
+        "powered-by": "Desenvolvido por",
+        "try-free": "Experimente gratuitamente",
+        "powered-by-title": "Experimente as pesquisas de feedback contínuo 360Pulse gratuitamente"
     },
     "nl": {
         "testimonial": "Getuigenis",
@@ -276,7 +303,10 @@ var translations = {
         "review-textarea-placeholder": "Schrijf hier uw review of laat AI u helpen...",
         "testimonial-textarea-placeholder": "Schrijf hier uw getuigenis of laat AI u helpen...",
         "thank-you-title": "Bedankt!",
-        "thank-you-message": "We waarderen het zeer dat u de tijd heeft genomen om onze enquête in te vullen. Uw feedback helpt ons onze diensten te verbeteren."
+        "thank-you-message": "We waarderen het zeer dat u de tijd heeft genomen om onze enquête in te vullen. Uw feedback helpt ons onze diensten te verbeteren.",
+        "powered-by": "Aangedreven door",
+        "try-free": "Probeer het gratis",
+        "powered-by-title": "Probeer 360Pulse continue feedback-enquêtes gratis"
     },
     "ru": {
         "testimonial": "Отзыв",
@@ -300,7 +330,10 @@ var translations = {
         "review-textarea-placeholder": "Напишите свой отзыв здесь или позвольте ИИ помочь вам...",
         "testimonial-textarea-placeholder": "Напишите свой отзыв здесь или позвольте ИИ помочь вам...",
         "thank-you-title": "Спасибо!",
-        "thank-you-message": "Мы искренне благодарим вас за то, что вы нашли время заполнить нашу анкету. Ваш отзыв помогает нам улучшать наши услуги."
+        "thank-you-message": "Мы искренне благодарим вас за то, что вы нашли время заполнить нашу анкету. Ваш отзыв помогает нам улучшать наши услуги.",
+        "powered-by": "Работает на платформе",
+        "try-free": "Попробуйте бесплатно",
+        "powered-by-title": "Попробуйте опросы непрерывной обратной связи 360Pulse бесплатно"
     },
     "ar": {
         "testimonial": "شهادة",
@@ -324,7 +357,10 @@ var translations = {
         "review-textarea-placeholder": "اكتب مراجعتك هنا أو دع الذكاء الاصطناعي يساعدك...",
         "testimonial-textarea-placeholder": "اكتب شهادتك هنا أو دع الذكاء الاصطناعي يساعدك...",
         "thank-you-title": "شكراً لك!",
-        "thank-you-message": "نقدر حقاً أنك خصصت وقتاً لإكمال استطلاعنا. تعليقاتك تساعدنا على تحسين خدماتنا."
+        "thank-you-message": "نقدر حقاً أنك خصصت وقتاً لإكمال استطلاعنا. تعليقاتك تساعدنا على تحسين خدماتنا.",
+        "powered-by": "مدعوم بواسطة",
+        "try-free": "جربه مجانًا",
+        "powered-by-title": "جرب استبيانات التقييم المستمر 360Pulse مجانًا"
     },
     "hi": {
         "testimonial": "प्रशंसापत्र",
@@ -348,7 +384,10 @@ var translations = {
         "review-textarea-placeholder": "अपनी समीक्षा यहां लिखें या AI को आपकी मदद करने दें...",
         "testimonial-textarea-placeholder": "अपना प्रशंसापत्र यहां लिखें या AI को आपकी मदद करने दें...",
         "thank-you-title": "धन्यवाद!",
-        "thank-you-message": "हम वास्तव में आपके द्वारा हमारे सर्वेक्षण को पूरा करने के लिए समय निकालने की सराहना करते हैं। आपकी प्रतिक्रिया हमें अपनी सेवाओं को बेहतर बनाने में मदद करती है।"
+        "thank-you-message": "हम वास्तव में आपके द्वारा हमारे सर्वेक्षण को पूरा करने के लिए समय निकालने की सराहना करते हैं। आपकी प्रतिक्रिया हमें अपनी सेवाओं को बेहतर बनाने में मदद करती है।",
+        "powered-by": "द्वारा संचालित",
+        "try-free": "इसे निःशुल्क आज़माएं",
+        "powered-by-title": "360Pulse निरंतर प्रतिक्रिया सर्वेक्षण निःशुल्क आज़माएं"
     },
     "bn": {
         "testimonial": "প্রশংসাপত্র",
@@ -372,7 +411,10 @@ var translations = {
         "review-textarea-placeholder": "এখানে আপনার পর্যালোচনা লিখুন বা AI কে আপনাকে সাহায্য করতে দিন...",
         "testimonial-textarea-placeholder": "এখানে আপনার প্রশংসাপত্র লিখুন বা AI কে আপনাকে সাহায্য করতে দিন...",
         "thank-you-title": "ধন্যবাদ!",
-        "thank-you-message": "আমরা সত্যিই আপনাকে আমাদের জরিপ সম্পূর্ণ করার জন্য সময় নেওয়ার জন্য প্রশংসা করি। আপনার প্রতিক্রিয়া আমাদের পরিষেবাগুলি উন্নত করতে সাহায্য করে।"
+        "thank-you-message": "আমরা সত্যিই আপনাকে আমাদের জরিপ সম্পূর্ণ করার জন্য সময় নেওয়ার জন্য প্রশংসা করি। আপনার প্রতিক্রিয়া আমাদের পরিষেবাগুলি উন্নত করতে সাহায্য করে।",
+        "powered-by": "দ্বারা পরিচালিত",
+        "try-free": "বিনামূল্যে চেষ্টা করুন",
+        "powered-by-title": "360Pulse ধারাবাহিক প্রতিক্রিয়া জরিপগুলি বিনামূল্যে চেষ্টা করুন"
     },
     "id": {
         "testimonial": "Testimoni",
@@ -396,7 +438,10 @@ var translations = {
         "review-textarea-placeholder": "Tulis ulasan Anda di sini atau biarkan AI membantu Anda...",
         "testimonial-textarea-placeholder": "Tulis testimoni Anda di sini atau biarkan AI membantu Anda...",
         "thank-you-title": "Terima kasih!",
-        "thank-you-message": "Kami sangat menghargai Anda telah meluangkan waktu untuk menyelesaikan survei kami. Umpan balik Anda membantu kami meningkatkan layanan kami."
+        "thank-you-message": "Kami sangat menghargai Anda telah meluangkan waktu untuk menyelesaikan survei kami. Umpan balik Anda membantu kami meningkatkan layanan kami.",
+        "powered-by": "Didukung oleh",
+        "try-free": "Coba gratis",
+        "powered-by-title": "Coba Survei Umpan Balik Berkelanjutan 360Pulse secara Gratis"
     },
     "vi": {
         "testimonial": "Lời chứng thực",
@@ -420,7 +465,10 @@ var translations = {
         "review-textarea-placeholder": "Viết đánh giá của bạn ở đây hoặc để AI giúp bạn...",
         "testimonial-textarea-placeholder": "Viết lời chứng thực của bạn ở đây hoặc để AI giúp bạn...",
         "thank-you-title": "Cảm ơn bạn!",
-        "thank-you-message": "Chúng tôi thực sự đánh giá cao việc bạn đã dành thời gian để hoàn thành khảo sát của chúng tôi. Phản hồi của bạn giúp chúng tôi cải thiện dịch vụ của mình."
+        "thank-you-message": "Chúng tôi thực sự đánh giá cao việc bạn đã dành thời gian để hoàn thành khảo sát của chúng tôi. Phản hồi của bạn giúp chúng tôi cải thiện dịch vụ của mình.",
+        "powered-by": "Được cung cấp bởi",
+        "try-free": "Dùng thử miễn phí",
+        "powered-by-title": "Dùng thử Khảo sát Phản hồi Liên tục 360Pulse miễn phí"
     },
     "tr": {
         "testimonial": "Referans",
@@ -444,7 +492,10 @@ var translations = {
         "review-textarea-placeholder": "İncelemenizi buraya yazın veya AI'nın size yardımcı olmasına izin verin...",
         "testimonial-textarea-placeholder": "Referansınızı buraya yazın veya AI'nın size yardımcı olmasına izin verin...",
         "thank-you-title": "Teşekkürler!",
-        "thank-you-message": "Anketimizi tamamlamak için zaman ayırdığınız için gerçekten teşekkür ederiz. Geri bildiriminiz hizmetlerimizi geliştirmemize yardımcı oluyor."
+        "thank-you-message": "Anketimizi tamamlamak için zaman ayırdığınız için gerçekten teşekkür ederiz. Geri bildiriminiz hizmetlerimizi geliştirmemize yardımcı oluyor.",
+        "powered-by": "Tarafından desteklenmektedir",
+        "try-free": "Ücretsiz deneyin",
+        "powered-by-title": "360Pulse Sürekli Geri Bildirim Anketlerini Ücretsiz Deneyin"
     },
     "pl": {
         "testimonial": "Referencje",
@@ -468,7 +519,10 @@ var translations = {
         "review-textarea-placeholder": "Napisz swoją recenzję tutaj lub pozwól AI pomóc Ci...",
         "testimonial-textarea-placeholder": "Napisz swoje referencje tutaj lub pozwól AI pomóc Ci...",
         "thank-you-title": "Dziękujemy!",
-        "thank-you-message": "Naprawdę doceniamy, że poświęciłeś czas na wypełnienie naszej ankiety. Twoje opinie pomagają nam ulepszać nasze usługi."
+        "thank-you-message": "Naprawdę doceniamy, że poświęciłeś czas na wypełnienie naszej ankiety. Twoje opinie pomagają nam ulepszać nasze usługi.",
+        "powered-by": "Obsługiwane przez",
+        "try-free": "Wypróbuj za darmo",
+        "powered-by-title": "Wypróbuj ankiety ciągłego feedbacku 360Pulse za darmo"
     },
     "uk": {
         "testimonial": "Відгук",
@@ -492,7 +546,10 @@ var translations = {
         "review-textarea-placeholder": "Напишіть свій відгук тут або дозвольте ШІ допомогти вам...",
         "testimonial-textarea-placeholder": "Напишіть свій відгук тут або дозвольте ШІ допомогти вам...",
         "thank-you-title": "Дякуємо!",
-        "thank-you-message": "Ми дійсно цінуємо, що ви знайшли час, щоб заповнити наше опитування. Ваш відгук допомагає нам покращувати наші послуги."
+        "thank-you-message": "Ми дійсно цінуємо, що ви знайшли час, щоб заповнити наше опитування. Ваш відгук допомагає нам покращувати наші послуги.",
+        "powered-by": "Працює на",
+        "try-free": "Спробуйте безкоштовно",
+        "powered-by-title": "Спробуйте опитування безперервного зворотного зв'язку 360Pulse безкоштовно"
     },
     "sv": {
         "testimonial": "Rekommendation",
@@ -516,7 +573,10 @@ var translations = {
         "review-textarea-placeholder": "Skriv din recension här eller låt AI hjälpa dig...",
         "testimonial-textarea-placeholder": "Skriv din rekommendation här eller låt AI hjälpa dig...",
         "thank-you-title": "Tack!",
-        "thank-you-message": "Vi uppskattar verkligen att du tog dig tid att fylla i vår enkät. Din feedback hjälper oss att förbättra våra tjänster."
+        "thank-you-message": "Vi uppskattar verkligen att du tog dig tid att fylla i vår enkät. Din feedback hjälper oss att förbättra våra tjänster.",
+        "powered-by": "Drivs av",
+        "try-free": "Prova det gratis",
+        "powered-by-title": "Prova 360Pulse kontinuerliga feedbackundersökningar gratis"
     },
     "no": {
         "testimonial": "Anbefaling",
@@ -540,7 +600,10 @@ var translations = {
         "review-textarea-placeholder": "Skriv anmeldelsen din her eller la AI hjelpe deg...",
         "testimonial-textarea-placeholder": "Skriv din anbefaling her eller la AI hjelpe deg...",
         "thank-you-title": "Takk!",
-        "thank-you-message": "Vi setter virkelig pris på at du tok deg tid til å fullføre undersøkelsen vår. Tilbakemeldingene dine hjelper oss med å forbedre tjenestene våre."
+        "thank-you-message": "Vi setter virkelig pris på at du tok deg tid til å fullføre undersøkelsen vår. Tilbakemeldingene dine hjelper oss med å forbedre tjenestene våre.",
+        "powered-by": "Drevet av",
+        "try-free": "Prøv det gratis",
+        "powered-by-title": "Prøv 360Pulse kontinuerlige tilbakemeldingsundersøkelser gratis"
     },
     "da": {
         "testimonial": "Anbefaling",
@@ -564,7 +627,10 @@ var translations = {
         "review-textarea-placeholder": "Skriv din anmeldelse her eller lad AI hjælpe dig...",
         "testimonial-textarea-placeholder": "Skriv din anbefaling her eller lad AI hjælpe dig...",
         "thank-you-title": "Tak!",
-        "thank-you-message": "Vi sætter virkelig pris på, at du tog dig tid til at udfylde vores undersøgelse. Din feedback hjælper os med at forbedre vores tjenester."
+        "thank-you-message": "Vi sætter virkelig pris på, at du tog dig tid til at udfylde vores undersøgelse. Din feedback hjælper os med at forbedre vores tjenester.",
+        "powered-by": "Drevet af",
+        "try-free": "Prøv det gratis",
+        "powered-by-title": "Prøv 360Pulse kontinuerlige feedback-undersøgelser gratis"
     },
     "fi": {
         "testimonial": "Suositus",
@@ -587,7 +653,10 @@ var translations = {
         "review-textarea-placeholder": "Kirjoita arvostelusi tähän tai anna tekoälyn auttaa sinua...",
         "testimonial-textarea-placeholder": "Kirjoita suosituksesi tähän tai anna tekoälyn auttaa sinua...",
         "thank-you-title": "Kiitos!",
-        "thank-you-message": "Arvostamme todella sitä, että käytit aikaa kyselymme täyttämiseen. Palautteesi auttaa meitä parantamaan palveluitamme."
+        "thank-you-message": "Arvostamme todella sitä, että käytit aikaa kyselymme täyttämiseen. Palautteesi auttaa meitä parantamaan palveluitamme.",
+        "powered-by": "Palvelun tarjoaa",
+        "try-free": "Kokeile ilmaiseksi",
+        "powered-by-title": "Kokeile 360Pulse jatkuvan palautteen kyselyitä ilmaiseksi"
     },
     "el": {
         "testimonial": "Μαρτυρία",
@@ -611,7 +680,10 @@ var translations = {
         "review-textarea-placeholder": "Γράψτε την κριτική σας εδώ ή αφήστε την τεχνητή νοημοσύνη να σας βοηθήσει...",
         "testimonial-textarea-placeholder": "Γράψτε τη μαρτυρία σας εδώ ή αφήστε την τεχνητή νοημοσύνη να σας βοηθήσει...",
         "thank-you-title": "Ευχαριστούμε!",
-        "thank-you-message": "Εκτιμούμε πραγματικά το χρόνο που αφιερώσατε για να συμπληρώσετε την έρευνά μας. Τα σχόλιά σας μας βοηθούν να βελτιώσουμε τις υπηρεσίες μας."
+        "thank-you-message": "Εκτιμούμε πραγματικά το χρόνο που αφιερώσατε για να συμπληρώσετε την έρευνά μας. Τα σχόλιά σας μας βοηθούν να βελτιώσουμε τις υπηρεσίες μας.",
+        "powered-by": "Με την υποστήριξη του",
+        "try-free": "Δοκιμάστε το δωρεάν",
+        "powered-by-title": "Δοκιμάστε τις έρευνες συνεχούς ανατροφοδότησης 360Pulse δωρεάν"
     },
     "he": {
         "testimonial": "המלצה",
@@ -635,7 +707,10 @@ var translations = {
         "review-textarea-placeholder": "כתבו את הביקורת שלכם כאן או תנו ל-AI לעזור לכם...",
         "testimonial-textarea-placeholder": "כתבו את ההמלצה שלכם כאן או תנו ל-AI לעזור לכם...",
         "thank-you-title": "תודה!",
-        "thank-you-message": "אנו מעריכים מאוד שהקדשתם זמן להשלים את הסקר שלנו. המשוב שלכם עוזר לנו לשפר את השירותים שלנו."
+        "thank-you-message": "אנו מעריכים מאוד שהקדשתם זמן להשלים את הסקר שלנו. המשוב שלכם עוזר לנו לשפר את השירותים שלנו.",
+        "powered-by": "מופעל על ידי",
+        "try-free": "נסו בחינם",
+        "powered-by-title": "נסו סקרי משוב מתמשכים של 360Pulse בחינם"
     },
     "fil": {
         "testimonial": "Testimonial",
@@ -659,7 +734,10 @@ var translations = {
         "review-textarea-placeholder": "Isulat ang iyong review dito o hayaan ang AI na tumulong sa iyo...",
         "testimonial-textarea-placeholder": "Isulat ang iyong testimonial dito o hayaan ang AI na tumulong sa iyo...",
         "thank-you-title": "Salamat!",
-        "thank-you-message": "Talagang pinahahalagahan namin na naglaan ka ng oras para kumpletuhin ang aming survey. Ang iyong feedback ay tumutulong sa amin na mapabuti ang aming mga serbisyo."
+        "thank-you-message": "Talagang pinahahalagahan namin na naglaan ka ng oras para kumpletuhin ang aming survey. Ang iyong feedback ay tumutulong sa amin na mapabuti ang aming mga serbisyo.",
+        "powered-by": "Pinalakas ng",
+        "try-free": "Subukan ito nang Libre",
+        "powered-by-title": "Subukan ang 360Pulse Continuous Feedback Surveys nang Libre"
     },
     "yue": {
         "testimonial": "推薦",
@@ -683,6 +761,9 @@ var translations = {
         "review-textarea-placeholder": "喺呢度寫低你嘅評論或者畀AI幫你...",
         "testimonial-textarea-placeholder": "喺呢度寫低你嘅推薦或者畀AI幫你...",
         "thank-you-title": "多謝！",
-        "thank-you-message": "我哋真心感謝你抽出時間完成我哋嘅調查。你嘅反饋幫助我哋改進服務。"
+        "thank-you-message": "我哋真心感謝你抽出時間完成我哋嘅調查。你嘅反饋幫助我哋改進服務。",
+        "powered-by": "由提供",
+        "try-free": "免費試用",
+        "powered-by-title": "免費試用 360Pulse 持續反饋調查"
     }
 };
