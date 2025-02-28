@@ -58,6 +58,7 @@ var translations = {
         "copy-review": "Copy to Clipboard",
         "select-platform-heading": "Select a Platform to Share Your Review",
         "review-textarea-placeholder": "Write your review here or let AI help you...",
+        "testimonial-textarea-placeholder": "Write your testimonial here or let AI help you...",
         "thank-you-title": "Thank you!",
         "thank-you-message": "We truly appreciate you taking the time to complete our survey. Your feedback helps us improve our services."
     },
@@ -81,6 +82,7 @@ var translations = {
         "copy-review": "Copiar al Portapapeles",
         "select-platform-heading": "Selecciona una Plataforma para Compartir tu Reseña",
         "review-textarea-placeholder": "Escribe tu reseña aquí o deja que la IA te ayude...",
+        "testimonial-textarea-placeholder": "Escribe tu testimonio aquí o deja que la IA te ayude...",
         "thank-you-title": "¡Gracias!",
         "thank-you-message": "Realmente apreciamos que te hayas tomado el tiempo para completar nuestra encuesta. Tus comentarios nos ayudan a mejorar nuestros servicios."
     },
@@ -104,6 +106,7 @@ var translations = {
         "copy-review": "Copier dans le Presse-papiers",
         "select-platform-heading": "Sélectionnez une Plateforme pour Partager Votre Avis",
         "review-textarea-placeholder": "Écrivez votre avis ici ou laissez l'IA vous aider...",
+        "testimonial-textarea-placeholder": "Écrivez votre témoignage ici ou laissez l'IA vous aider...",
         "thank-you-title": "Merci !",
         "thank-you-message": "Nous vous remercions sincèrement d'avoir pris le temps de répondre à notre sondage. Vos commentaires nous aident à améliorer nos services."
     },
@@ -127,6 +130,7 @@ var translations = {
         "copy-review": "In die Zwischenablage kopieren",
         "select-platform-heading": "Wählen Sie eine Plattform, um Ihre Bewertung zu teilen",
         "review-textarea-placeholder": "Schreiben Sie Ihre Bewertung hier oder lassen Sie die KI Ihnen helfen...",
+        "testimonial-textarea-placeholder": "Schreiben Sie Ihren Erfahrungsbericht hier oder lassen Sie die KI Ihnen helfen...",
         "thank-you-title": "Vielen Dank!",
         "thank-you-message": "Wir schätzen es sehr, dass Sie sich die Zeit genommen haben, unsere Umfrage auszufüllen. Ihr Feedback hilft uns, unsere Dienstleistungen zu verbessern."
     },
@@ -150,6 +154,7 @@ var translations = {
         "copy-review": "复制到剪贴板",
         "select-platform-heading": "选择一个平台分享您的评价",
         "review-textarea-placeholder": "在此处撰写您的评价或让AI帮助您...",
+        "testimonial-textarea-placeholder": "在此处撰写您的推荐或让AI帮助您...",
         "thank-you-title": "谢谢！",
         "thank-you-message": "非常感谢您抽出时间完成我们的调查。您的反馈帮助我们改进服务。"
     },
@@ -173,6 +178,7 @@ var translations = {
         "copy-review": "クリップボードにコピー",
         "select-platform-heading": "レビューを共有するプラットフォームを選択",
         "review-textarea-placeholder": "ここにレビューを書くか、AIに手伝ってもらいましょう...",
+        "testimonial-textarea-placeholder": "ここに推薦文を書くか、AIに手伝ってもらいましょう...",
         "thank-you-title": "ありがとうございます！",
         "thank-you-message": "アンケートにお時間を割いていただき、誠にありがとうございます。あなたのフィードバックは、私たちのサービス向上に役立ちます。"
     },
@@ -196,6 +202,7 @@ var translations = {
         "copy-review": "클립보드에 복사",
         "select-platform-heading": "리뷰를 공유할 플랫폼 선택",
         "review-textarea-placeholder": "여기에 리뷰를 작성하거나 AI의 도움을 받으세요...",
+        "testimonial-textarea-placeholder": "여기에 추천사를 작성하거나 AI의 도움을 받으세요...",
         "thank-you-title": "감사합니다!",
         "thank-you-message": "설문조사를 완료해 주셔서 진심으로 감사드립니다. 귀하의 피드백은 저희 서비스 개선에 도움이 됩니다."
     },
@@ -219,6 +226,7 @@ var translations = {
         "copy-review": "Copia negli Appunti",
         "select-platform-heading": "Seleziona una Piattaforma per Condividere la Tua Recensione",
         "review-textarea-placeholder": "Scrivi qui la tua recensione o lascia che l'IA ti aiuti...",
+        "testimonial-textarea-placeholder": "Scrivi qui la tua testimonianza o lascia che l'IA ti aiuti...",
         "thank-you-title": "Grazie!",
         "thank-you-message": "Apprezziamo davvero che tu abbia dedicato del tempo a completare il nostro sondaggio. Il tuo feedback ci aiuta a migliorare i nostri servizi."
     },
@@ -242,6 +250,7 @@ var translations = {
         "copy-review": "Copiar para a Área de Transferência",
         "select-platform-heading": "Selecione uma Plataforma para Compartilhar seu Comentário",
         "review-textarea-placeholder": "Escreva sua avaliação aqui ou deixe a IA ajudá-lo...",
+        "testimonial-textarea-placeholder": "Escreva seu depoimento aqui ou deixe a IA ajudá-lo...",
         "thank-you-title": "Obrigado!",
         "thank-you-message": "Agradecemos sinceramente por você ter dedicado tempo para preencher nossa pesquisa. Seu feedback nos ajuda a melhorar nossos serviços."
     },
@@ -265,6 +274,7 @@ var translations = {
         "copy-review": "Kopiëren naar Klembord",
         "select-platform-heading": "Selecteer een Platform om uw Review te Delen",
         "review-textarea-placeholder": "Schrijf hier uw review of laat AI u helpen...",
+        "testimonial-textarea-placeholder": "Schrijf hier uw getuigenis of laat AI u helpen...",
         "thank-you-title": "Bedankt!",
         "thank-you-message": "We waarderen het zeer dat u de tijd heeft genomen om onze enquête in te vullen. Uw feedback helpt ons onze diensten te verbeteren."
     },
@@ -288,6 +298,7 @@ var translations = {
         "copy-review": "Копировать в буфер обмена",
         "select-platform-heading": "Выберите платформу, чтобы поделиться своим отзывом",
         "review-textarea-placeholder": "Напишите свой отзыв здесь или позвольте ИИ помочь вам...",
+        "testimonial-textarea-placeholder": "Напишите свой отзыв здесь или позвольте ИИ помочь вам...",
         "thank-you-title": "Спасибо!",
         "thank-you-message": "Мы искренне благодарим вас за то, что вы нашли время заполнить нашу анкету. Ваш отзыв помогает нам улучшать наши услуги."
     },
@@ -311,6 +322,7 @@ var translations = {
         "copy-review": "نسخ إلى الحافظة",
         "select-platform-heading": "حدد نظامًا أساسيًا لمشاركة تعليقك",
         "review-textarea-placeholder": "اكتب مراجعتك هنا أو دع الذكاء الاصطناعي يساعدك...",
+        "testimonial-textarea-placeholder": "اكتب شهادتك هنا أو دع الذكاء الاصطناعي يساعدك...",
         "thank-you-title": "شكراً لك!",
         "thank-you-message": "نقدر حقاً أنك خصصت وقتاً لإكمال استطلاعنا. تعليقاتك تساعدنا على تحسين خدماتنا."
     },
@@ -334,6 +346,7 @@ var translations = {
         "copy-review": "क्लिपबोर्ड पर कॉपी करें",
         "select-platform-heading": "अपनी समीक्षा साझा करने के लिए एक प्लेटफ़ॉर्म चुनें",
         "review-textarea-placeholder": "अपनी समीक्षा यहां लिखें या AI को आपकी मदद करने दें...",
+        "testimonial-textarea-placeholder": "अपना प्रशंसापत्र यहां लिखें या AI को आपकी मदद करने दें...",
         "thank-you-title": "धन्यवाद!",
         "thank-you-message": "हम वास्तव में आपके द्वारा हमारे सर्वेक्षण को पूरा करने के लिए समय निकालने की सराहना करते हैं। आपकी प्रतिक्रिया हमें अपनी सेवाओं को बेहतर बनाने में मदद करती है।"
     },
@@ -357,6 +370,7 @@ var translations = {
         "copy-review": "ক্লিপবোর্ডে অনুলিপি করুন",
         "select-platform-heading": "আপনার পর্যালোচনা ভাগ করার জন্য একটি প্ল্যাটফর্ম নির্বাচন করুন",
         "review-textarea-placeholder": "এখানে আপনার পর্যালোচনা লিখুন বা AI কে আপনাকে সাহায্য করতে দিন...",
+        "testimonial-textarea-placeholder": "এখানে আপনার প্রশংসাপত্র লিখুন বা AI কে আপনাকে সাহায্য করতে দিন...",
         "thank-you-title": "ধন্যবাদ!",
         "thank-you-message": "আমরা সত্যিই আপনাকে আমাদের জরিপ সম্পূর্ণ করার জন্য সময় নেওয়ার জন্য প্রশংসা করি। আপনার প্রতিক্রিয়া আমাদের পরিষেবাগুলি উন্নত করতে সাহায্য করে।"
     },
@@ -380,6 +394,7 @@ var translations = {
         "copy-review": "Salin ke Papan Klip",
         "select-platform-heading": "Pilih Platform untuk Membagikan Ulasan Anda",
         "review-textarea-placeholder": "Tulis ulasan Anda di sini atau biarkan AI membantu Anda...",
+        "testimonial-textarea-placeholder": "Tulis testimoni Anda di sini atau biarkan AI membantu Anda...",
         "thank-you-title": "Terima kasih!",
         "thank-you-message": "Kami sangat menghargai Anda telah meluangkan waktu untuk menyelesaikan survei kami. Umpan balik Anda membantu kami meningkatkan layanan kami."
     },
@@ -403,6 +418,7 @@ var translations = {
         "copy-review": "Sao chép vào Clipboard",
         "select-platform-heading": "Chọn một Nền tảng để Chia sẻ Đánh giá của Bạn",
         "review-textarea-placeholder": "Viết đánh giá của bạn ở đây hoặc để AI giúp bạn...",
+        "testimonial-textarea-placeholder": "Viết lời chứng thực của bạn ở đây hoặc để AI giúp bạn...",
         "thank-you-title": "Cảm ơn bạn!",
         "thank-you-message": "Chúng tôi thực sự đánh giá cao việc bạn đã dành thời gian để hoàn thành khảo sát của chúng tôi. Phản hồi của bạn giúp chúng tôi cải thiện dịch vụ của mình."
     },
@@ -426,6 +442,7 @@ var translations = {
         "copy-review": "Panoya Kopyala",
         "select-platform-heading": "İncelemenizi Paylaşmak için bir Platform Seçin",
         "review-textarea-placeholder": "İncelemenizi buraya yazın veya AI'nın size yardımcı olmasına izin verin...",
+        "testimonial-textarea-placeholder": "Referansınızı buraya yazın veya AI'nın size yardımcı olmasına izin verin...",
         "thank-you-title": "Teşekkürler!",
         "thank-you-message": "Anketimizi tamamlamak için zaman ayırdığınız için gerçekten teşekkür ederiz. Geri bildiriminiz hizmetlerimizi geliştirmemize yardımcı oluyor."
     },
@@ -449,6 +466,7 @@ var translations = {
         "copy-review": "Skopiuj do schowka",
         "select-platform-heading": "Wybierz platformę, aby udostępnić swoją recenzję",
         "review-textarea-placeholder": "Napisz swoją recenzję tutaj lub pozwól AI pomóc Ci...",
+        "testimonial-textarea-placeholder": "Napisz swoje referencje tutaj lub pozwól AI pomóc Ci...",
         "thank-you-title": "Dziękujemy!",
         "thank-you-message": "Naprawdę doceniamy, że poświęciłeś czas na wypełnienie naszej ankiety. Twoje opinie pomagają nam ulepszać nasze usługi."
     },
@@ -472,6 +490,7 @@ var translations = {
         "copy-review": "Копіювати в буфер обміну",
         "select-platform-heading": "Виберіть платформу, щоб поділитися своїм відгуком",
         "review-textarea-placeholder": "Напишіть свій відгук тут або дозвольте ШІ допомогти вам...",
+        "testimonial-textarea-placeholder": "Напишіть свій відгук тут або дозвольте ШІ допомогти вам...",
         "thank-you-title": "Дякуємо!",
         "thank-you-message": "Ми дійсно цінуємо, що ви знайшли час, щоб заповнити наше опитування. Ваш відгук допомагає нам покращувати наші послуги."
     },
@@ -495,6 +514,7 @@ var translations = {
         "copy-review": "Kopiera till Urklipp",
         "select-platform-heading": "Välj en plattform för att dela din recension",
         "review-textarea-placeholder": "Skriv din recension här eller låt AI hjälpa dig...",
+        "testimonial-textarea-placeholder": "Skriv din rekommendation här eller låt AI hjälpa dig...",
         "thank-you-title": "Tack!",
         "thank-you-message": "Vi uppskattar verkligen att du tog dig tid att fylla i vår enkät. Din feedback hjälper oss att förbättra våra tjänster."
     },
@@ -518,6 +538,7 @@ var translations = {
         "copy-review": "Kopier til utklippstavlen",
         "select-platform-heading": "Velg en plattform for å dele din anmeldelse",
         "review-textarea-placeholder": "Skriv anmeldelsen din her eller la AI hjelpe deg...",
+        "testimonial-textarea-placeholder": "Skriv din anbefaling her eller la AI hjelpe deg...",
         "thank-you-title": "Takk!",
         "thank-you-message": "Vi setter virkelig pris på at du tok deg tid til å fullføre undersøkelsen vår. Tilbakemeldingene dine hjelper oss med å forbedre tjenestene våre."
     },
@@ -541,6 +562,7 @@ var translations = {
         "copy-review": "Kopier til udklipsholder",
         "select-platform-heading": "Vælg en platform til at dele din anmeldelse",
         "review-textarea-placeholder": "Skriv din anmeldelse her eller lad AI hjælpe dig...",
+        "testimonial-textarea-placeholder": "Skriv din anbefaling her eller lad AI hjælpe dig...",
         "thank-you-title": "Tak!",
         "thank-you-message": "Vi sætter virkelig pris på, at du tog dig tid til at udfylde vores undersøgelse. Din feedback hjælper os med at forbedre vores tjenester."
     },
@@ -563,6 +585,7 @@ var translations = {
         "copy-review": "Kopioi leikepöydälle",
         "select-platform-heading": "Valitse alusta jakaaksesi arvostelusi",
         "review-textarea-placeholder": "Kirjoita arvostelusi tähän tai anna tekoälyn auttaa sinua...",
+        "testimonial-textarea-placeholder": "Kirjoita suosituksesi tähän tai anna tekoälyn auttaa sinua...",
         "thank-you-title": "Kiitos!",
         "thank-you-message": "Arvostamme todella sitä, että käytit aikaa kyselymme täyttämiseen. Palautteesi auttaa meitä parantamaan palveluitamme."
     },
@@ -586,6 +609,7 @@ var translations = {
         "copy-review": "Αντιγραφή στο πρόχειρο",
         "select-platform-heading": "Επιλέξτε μια πλατφόρμα για να μοιραστείτε την κριτική σας",
         "review-textarea-placeholder": "Γράψτε την κριτική σας εδώ ή αφήστε την τεχνητή νοημοσύνη να σας βοηθήσει...",
+        "testimonial-textarea-placeholder": "Γράψτε τη μαρτυρία σας εδώ ή αφήστε την τεχνητή νοημοσύνη να σας βοηθήσει...",
         "thank-you-title": "Ευχαριστούμε!",
         "thank-you-message": "Εκτιμούμε πραγματικά το χρόνο που αφιερώσατε για να συμπληρώσετε την έρευνά μας. Τα σχόλιά σας μας βοηθούν να βελτιώσουμε τις υπηρεσίες μας."
     },
@@ -609,6 +633,7 @@ var translations = {
         "copy-review": "העתק ללוח",
         "select-platform-heading": "בחרו פלטפורמה כדי לשתף את הביקורת שלכם",
         "review-textarea-placeholder": "כתבו את הביקורת שלכם כאן או תנו ל-AI לעזור לכם...",
+        "testimonial-textarea-placeholder": "כתבו את ההמלצה שלכם כאן או תנו ל-AI לעזור לכם...",
         "thank-you-title": "תודה!",
         "thank-you-message": "אנו מעריכים מאוד שהקדשתם זמן להשלים את הסקר שלנו. המשוב שלכם עוזר לנו לשפר את השירותים שלנו."
     },
@@ -632,6 +657,7 @@ var translations = {
         "copy-review": "Kopyahin sa Clipboard",
         "select-platform-heading": "Pumili ng Platform upang Ibahagi ang Iyong Review",
         "review-textarea-placeholder": "Isulat ang iyong review dito o hayaan ang AI na tumulong sa iyo...",
+        "testimonial-textarea-placeholder": "Isulat ang iyong testimonial dito o hayaan ang AI na tumulong sa iyo...",
         "thank-you-title": "Salamat!",
         "thank-you-message": "Talagang pinahahalagahan namin na naglaan ka ng oras para kumpletuhin ang aming survey. Ang iyong feedback ay tumutulong sa amin na mapabuti ang aming mga serbisyo."
     },
@@ -655,6 +681,7 @@ var translations = {
         "copy-review": "複製到剪貼板",
         "select-platform-heading": "選擇一個平台分享您嘅評論",
         "review-textarea-placeholder": "喺呢度寫低你嘅評論或者畀AI幫你...",
+        "testimonial-textarea-placeholder": "喺呢度寫低你嘅推薦或者畀AI幫你...",
         "thank-you-title": "多謝！",
         "thank-you-message": "我哋真心感謝你抽出時間完成我哋嘅調查。你嘅反饋幫助我哋改進服務。"
     }
