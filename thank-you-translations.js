@@ -40,6 +40,7 @@ var languageCodes = [
 var translations = {
     "en": {
         "testimonial": "Testimonial",
+        "submit-feedback": "Submit Feedback",
         "reviews": "Leave a Review",
         "testimonial-heading": "Share Your Experience",
         "testimonial-subheading": "A quick testimonial from you would mean the world to us!",
@@ -81,6 +82,7 @@ var translations = {
     },
     "es": {
         "testimonial": "Testimonio",
+        "submit-feedback": "Enviar Comentarios",
         "reviews": "Dejar una Reseña",
         "testimonial-heading": "Comparte tu Experiencia",
         "testimonial-subheading": "¡Un breve testimonio tuyo significaría mucho para nosotros!",
@@ -122,6 +124,7 @@ var translations = {
     },
     "fr": {
         "testimonial": "Témoignage",
+        "submit-feedback": "Envoyer les Commentaires",
         "reviews": "Laisser un Avis",
         "testimonial-heading": "Partagez Votre Expérience",
         "testimonial-subheading": "Un bref témoignage de votre part signifierait beaucoup pour nous !",
@@ -163,6 +166,7 @@ var translations = {
     },
     "de": {
         "testimonial": "Erfahrungsbericht",
+        "submit-feedback": "Feedback Senden",
         "reviews": "Bewertung abgeben",
         "testimonial-heading": "Teilen Sie Ihre Erfahrung",
         "testimonial-subheading": "Ein kurzer Erfahrungsbericht von Ihnen würde uns sehr viel bedeuten!",
@@ -204,6 +208,7 @@ var translations = {
     },
     "zh": {
         "testimonial": "推荐",
+        "submit-feedback": "提交反馈",
         "reviews": "留下评价",
         "testimonial-heading": "分享您的体验",
         "testimonial-subheading": "您的简短推荐对我们意义重大！",
@@ -245,6 +250,7 @@ var translations = {
     },
     "ja": {
         "testimonial": "推薦文",
+        "submit-feedback": "フィードバックを送信",
         "reviews": "レビューを残す",
         "testimonial-heading": "あなたの体験を共有する",
         "testimonial-subheading": "あなたからの簡単な推薦文は私たちにとって非常に重要です！",
@@ -286,6 +292,7 @@ var translations = {
     },
     "ko": {
         "testimonial": "추천사",
+        "submit-feedback": "피드백 제출",
         "reviews": "리뷰 남기기",
         "testimonial-heading": "경험 공유하기",
         "testimonial-subheading": "간단한 추천사는 저희에게 큰 의미가 있습니다!",
@@ -327,6 +334,7 @@ var translations = {
     },
     "it": {
         "testimonial": "Testimonianza",
+        "submit-feedback": "Invia Feedback",
         "reviews": "Lascia una Recensione",
         "testimonial-heading": "Condividi la Tua Esperienza",
         "testimonial-subheading": "Una tua breve testimonianza significherebbe molto per noi!",
@@ -368,6 +376,7 @@ var translations = {
     },
     "pt": {
         "testimonial": "Depoimento",
+        "submit-feedback": "Enviar Feedback",
         "reviews": "Deixar um Comentário",
         "testimonial-heading": "Compartilhe sua Experiência",
         "testimonial-subheading": "Um breve depoimento seu significaria muito para nós!",
@@ -409,6 +418,7 @@ var translations = {
     },
     "nl": {
         "testimonial": "Getuigenis",
+        "submit-feedback": "Feedback Verzenden",
         "reviews": "Laat een Review Achter",
         "testimonial-heading": "Deel uw Ervaring",
         "testimonial-subheading": "Een korte getuigenis van u zou veel voor ons betekenen!",
@@ -450,6 +460,7 @@ var translations = {
     },
     "ru": {
         "testimonial": "Отзыв",
+        "submit-feedback": "Отправить Отзыв",
         "reviews": "Оставить отзыв",
         "testimonial-heading": "Поделитесь своим опытом",
         "testimonial-subheading": "Ваш краткий отзыв будет очень важен для нас!",
@@ -491,6 +502,7 @@ var translations = {
     },
     "ar": {
         "testimonial": "شهادة",
+        "submit-feedback": "إرسال التعليقات",
         "reviews": "اترك تعليق",
         "testimonial-heading": "شارك تجربتك",
         "testimonial-subheading": "شهادة موجزة منك ستعني لنا الكثير!",
@@ -532,6 +544,7 @@ var translations = {
     },
     "hi": {
         "testimonial": "प्रशंसापत्र",
+        "submit-feedback": "प्रतिक्रिया भेजें",
         "reviews": "समीक्षा छोड़ें",
         "testimonial-heading": "अपना अनुभव साझा करें",
         "testimonial-subheading": "आपका एक संक्षिप्त प्रशंसापत्र हमारे लिए बहुत मायने रखेगा!",
@@ -573,6 +586,7 @@ var translations = {
     },
     "bn": {
         "testimonial": "প্রশংসাপত্র",
+        "submit-feedback": "প্রতিক্রিয়া জমা দিন",
         "reviews": "একটি পর্যালোচনা করুন",
         "testimonial-heading": "আপনার অভিজ্ঞতা শেয়ার করুন",
         "testimonial-subheading": "আপনার একটি সংক্ষিপ্ত প্রশংসাপত্র আমাদের জন্য অনেক মূল্যবান হবে!",
@@ -614,6 +628,7 @@ var translations = {
     },
     "id": {
         "testimonial": "Testimoni",
+        "submit-feedback": "Kirim Umpan Balik",
         "reviews": "Tinggalkan Ulasan",
         "testimonial-heading": "Bagikan Pengalaman Anda",
         "testimonial-subheading": "Testimoni singkat dari Anda akan sangat berarti bagi kami!",
@@ -655,6 +670,7 @@ var translations = {
     },
     "vi": {
         "testimonial": "Lời chứng thực",
+        "submit-feedback": "Gửi Phản Hồi",
         "reviews": "Để lại Đánh giá",
         "testimonial-heading": "Chia sẻ Trải nghiệm của Bạn",
         "testimonial-subheading": "Một lời chứng thực ngắn gọn từ bạn sẽ có ý nghĩa rất lớn đối với chúng tôi!",
@@ -696,6 +712,7 @@ var translations = {
     },
     "tr": {
         "testimonial": "Referans",
+        "submit-feedback": "Geri Bildirim Gönder",
         "reviews": "İnceleme Bırakın",
         "testimonial-heading": "Deneyiminizi Paylaşın",
         "testimonial-subheading": "Sizden kısa bir referans bizim için çok şey ifade eder!",
@@ -737,6 +754,7 @@ var translations = {
     },
     "pl": {
         "testimonial": "Referencje",
+        "submit-feedback": "Prześlij Opinię",
         "reviews": "Zostaw recenzję",
         "testimonial-heading": "Podziel się swoim doświadczeniem",
         "testimonial-subheading": "Krótka referencja od Ciebie wiele by dla nas znaczyła!",
@@ -778,6 +796,7 @@ var translations = {
     },
     "uk": {
         "testimonial": "Відгук",
+        "submit-feedback": "Надіслати Відгук",
         "reviews": "Залишити відгук",
         "testimonial-heading": "Поділіться своїм досвідом",
         "testimonial-subheading": "Ваш короткий відгук буде дуже важливим для нас!",
@@ -819,6 +838,7 @@ var translations = {
     },
     "sv": {
         "testimonial": "Rekommendation",
+        "submit-feedback": "Skicka Feedback",
         "reviews": "Lämna en recension",
         "testimonial-heading": "Dela din upplevelse",
         "testimonial-subheading": "En kort rekommendation från dig skulle betyda mycket för oss!",
@@ -860,6 +880,7 @@ var translations = {
     },
     "no": {
         "testimonial": "Anbefaling",
+        "submit-feedback": "Send Tilbakemelding",
         "reviews": "Legg igjen en anmeldelse",
         "testimonial-heading": "Del din erfaring",
         "testimonial-subheading": "En kort anbefaling fra deg ville bety mye for oss!",
@@ -901,6 +922,7 @@ var translations = {
     },
     "da": {
         "testimonial": "Anbefaling",
+        "submit-feedback": "Send Feedback",
         "reviews": "Skriv en anmeldelse",
         "testimonial-heading": "Del din oplevelse",
         "testimonial-subheading": "En kort anbefaling fra dig ville betyde meget for os!",
@@ -942,6 +964,7 @@ var translations = {
     },
     "fi": {
         "testimonial": "Suositus",
+        "submit-feedback": "Lähetä Palaute",
         "reviews": "Jätä arvostelu",
         "testimonial-heading": "Jaa kokemuksesi",
         "testimonial-subheading": "Lyhyt suositus sinulta merkitsisi meille paljon!",
@@ -982,6 +1005,7 @@ var translations = {
     },
     "el": {
         "testimonial": "Μαρτυρία",
+        "submit-feedback": "Υποβολή Σχολίων",
         "reviews": "Αφήστε μια κριτική",
         "testimonial-heading": "Μοιραστείτε την εμπειρία σας",
         "testimonial-subheading": "Μια σύντομη μαρτυρία από εσάς θα σήμαινε πολλά για εμάς!",
@@ -1023,6 +1047,7 @@ var translations = {
     },
     "he": {
         "testimonial": "המלצה",
+        "submit-feedback": "שלח משוב",
         "reviews": "השאירו ביקורת",
         "testimonial-heading": "שתפו את החוויה שלכם",
         "testimonial-subheading": "המלצה קצרה ממך תהיה חשובה לנו מאוד!",
@@ -1064,6 +1089,7 @@ var translations = {
     },
     "fil": {
         "testimonial": "Testimonial",
+        "submit-feedback": "Isumite ang Feedback",
         "reviews": "Mag-iwan ng Review",
         "testimonial-heading": "Ibahagi ang Iyong Karanasan",
         "testimonial-subheading": "Ang isang mabilis na testimonial mula sa iyo ay malaking bagay para sa amin!",
@@ -1105,6 +1131,7 @@ var translations = {
     },
     "yue": {
         "testimonial": "推薦",
+        "submit-feedback": "提交反饋",
         "reviews": "留下評論",
         "testimonial-heading": "分享您的體驗",
         "testimonial-subheading": "您嘅簡短推薦對我哋嚟講意義重大！",
