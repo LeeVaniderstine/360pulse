@@ -75,7 +75,9 @@ var translations = {
         "feedback-placeholder-passive": "What did you enjoy, and how can we improve further?",
         "title-detractor": "Help Us Improve",
         "welcome-detractor": "Thank you for taking the time to complete our survey. We're sorry to hear things didn't meet your expectations. Your honest feedback helps us identify ways to improve.",
-        "feedback-placeholder-detractor": "Please tell us what went wrong and how we can do better."
+        "feedback-placeholder-detractor": "Please tell us what went wrong and how we can do better.",
+        "page-title": "Thank You for Your Feedback",
+        "meta-description": "We appreciate you taking the time to share your thoughts. Your insights help us improve and create a better experience for everyone."
     },
     "es": {
         "testimonial": "Testimonio",
@@ -114,7 +116,9 @@ var translations = {
         "feedback-placeholder-passive": "¿Qué disfrutaste y cómo podemos mejorar más?",
         "title-detractor": "Ayúdanos a mejorar",
         "welcome-detractor": "Gracias por tomarte el tiempo de completar nuestra encuesta. Lamentamos que las cosas no hayan cumplido con tus expectativas. Tu retroalimentación honesta nos ayuda a identificar formas de mejorar.",
-        "feedback-placeholder-detractor": "Por favor, cuéntanos qué salió mal y cómo podemos hacerlo mejor."
+        "feedback-placeholder-detractor": "Por favor, cuéntanos qué salió mal y cómo podemos hacerlo mejor.",
+        "page-title": "Gracias por sus comentarios",
+        "meta-description": "Agradecemos que se haya tomado el tiempo de compartir sus pensamientos. Sus opiniones nos ayudan a mejorar y crear una mejor experiencia para todos."
     },
     "fr": {
         "testimonial": "Témoignage",
@@ -153,7 +157,9 @@ var translations = {
         "feedback-placeholder-passive": "Qu'avez-vous apprécié et comment pouvons-nous nous améliorer davantage ?",
         "title-detractor": "Aidez-nous à nous améliorer",
         "welcome-detractor": "Merci d'avoir pris le temps de remplir notre sondage. Nous sommes désolés d'apprendre que les choses n'ont pas répondu à vos attentes. Vos commentaires honnêtes nous aident à identifier des moyens de nous améliorer.",
-        "feedback-placeholder-detractor": "Veuillez nous dire ce qui n'a pas fonctionné et comment nous pouvons faire mieux."
+        "feedback-placeholder-detractor": "Veuillez nous dire ce qui n'a pas fonctionné et comment nous pouvons faire mieux.",
+        "page-title": "Merci pour votre feedback",
+        "meta-description": "Nous vous remercions d'avoir pris le temps de partager vos réflexions. Vos idées nous aident à nous améliorer et à créer une meilleure expérience pour tous."
     },
     "de": {
         "testimonial": "Erfahrungsbericht",
@@ -192,7 +198,9 @@ var translations = {
         "feedback-placeholder-passive": "Was hat Ihnen gefallen und wie können wir uns weiter verbessern?",
         "title-detractor": "Helfen Sie uns, besser zu werden",
         "welcome-detractor": "Danke, dass Sie sich die Zeit genommen haben, unsere Umfrage auszufüllen. Es tut uns leid zu hören, dass die Dinge Ihre Erwartungen nicht erfüllt haben. Ihr ehrliches Feedback hilft uns, Verbesserungsmöglichkeiten zu identifizieren.",
-        "feedback-placeholder-detractor": "Bitte teilen Sie uns mit, was schief gelaufen ist und wie wir es besser machen können."
+        "feedback-placeholder-detractor": "Bitte teilen Sie uns mit, was schief gelaufen ist und wie wir es besser machen können.",
+        "page-title": "Vielen Dank für Ihr Feedback",
+        "meta-description": "Wir danken Ihnen, dass Sie sich die Zeit genommen haben, Ihre Gedanken zu teilen. Ihre Einblicke helfen uns, uns zu verbessern und ein besseres Erlebnis für alle zu schaffen."
     },
     "zh": {
         "testimonial": "推荐",
@@ -231,7 +239,9 @@ var translations = {
         "feedback-placeholder-passive": "您喜欢什么，我们如何进一步改进？",
         "title-detractor": "帮助我们改进",
         "welcome-detractor": "感谢您抽出时间完成我们的调查。我们很遗憾听到事情没有达到您的期望。您的诚实反馈帮助我们找出改进的方法。",
-        "feedback-placeholder-detractor": "请告诉我们什么出了问题，以及我们如何做得更好。"
+        "feedback-placeholder-detractor": "请告诉我们什么出了问题，以及我们如何做得更好。",
+        "page-title": "感谢您的反馈",
+        "meta-description": "感谢您抽出时间分享您的想法。您的见解帮助我们改进并为所有人创造更好的体验。"
     },
     "ja": {
         "testimonial": "推薦文",
@@ -270,7 +280,9 @@ var translations = {
         "feedback-placeholder-passive": "何を楽しんでいただきましたか？また、どのようにさらに改善できますか？",
         "title-detractor": "改善にご協力ください",
         "welcome-detractor": "アンケートにお時間を割いていただきありがとうございます。期待に応えられなかったことを申し訳なく思います。あなたの正直なフィードバックは、改善方法を特定するのに役立ちます。",
-        "feedback-placeholder-detractor": "何がうまくいかなかったのか、どうすれば改善できるかを教えてください。"
+        "feedback-placeholder-detractor": "何がうまくいかなかったのか、どうすれば改善できるかを教えてください。",
+        "page-title": "フィードバックをありがとうございます",
+        "meta-description": "お時間を割いてご意見をお寄せいただき、ありがとうございます。あなたの洞察は私たちの改善に役立ち、皆様にとってより良い体験を作り出すのに役立ちます。"
     },
     "ko": {
         "testimonial": "추천사",
@@ -309,7 +321,9 @@ var translations = {
         "feedback-placeholder-passive": "무엇이 좋았으며, 어떻게 하면 더 개선할 수 있을까요?",
         "title-detractor": "개선에 도움을 주세요",
         "welcome-detractor": "설문조사를 완료해 주셔서 감사합니다. 기대에 미치지 못했다니 유감입니다. 귀하의 솔직한 피드백은 개선 방법을 찾는 데 도움이 됩니다.",
-        "feedback-placeholder-detractor": "무엇이 잘못되었고 어떻게 개선할 수 있는지 알려주세요."
+        "feedback-placeholder-detractor": "무엇이 잘못되었고 어떻게 개선할 수 있는지 알려주세요.",
+        "page-title": "피드백을 주셔서 감사합니다",
+        "meta-description": "시간을 내어 생각을 공유해 주셔서 감사합니다. 귀하의 통찰력은 저희가 개선하고 모두를 위해 더 나은 경험을 만드는 데 도움이 됩니다."
     },
     "it": {
         "testimonial": "Testimonianza",
@@ -348,7 +362,9 @@ var translations = {
         "feedback-placeholder-passive": "Cosa hai apprezzato e come possiamo migliorare ulteriormente?",
         "title-detractor": "Aiutaci a migliorare",
         "welcome-detractor": "Grazie per aver dedicato del tempo a completare il nostro sondaggio. Ci dispiace sapere che le cose non hanno soddisfatto le tue aspettative. Il tuo feedback onesto ci aiuta a identificare modi per migliorare.",
-        "feedback-placeholder-detractor": "Per favore, dicci cosa è andato storto e come possiamo fare meglio."
+        "feedback-placeholder-detractor": "Per favore, dicci cosa è andato storto e come possiamo fare meglio.",
+        "page-title": "Grazie per il tuo feedback",
+        "meta-description": "Apprezziamo che tu abbia dedicato del tempo a condividere i tuoi pensieri. Le tue opinioni ci aiutano a migliorare e a creare un'esperienza migliore per tutti."
     },
     "pt": {
         "testimonial": "Depoimento",
@@ -387,7 +403,9 @@ var translations = {
         "feedback-placeholder-passive": "O que você gostou e como podemos melhorar ainda mais?",
         "title-detractor": "Ajude-nos a melhorar",
         "welcome-detractor": "Obrigado por dedicar seu tempo para preencher nossa pesquisa. Lamentamos saber que as coisas não atenderam às suas expectativas. Seu feedback honesto nos ajuda a identificar maneiras de melhorar.",
-        "feedback-placeholder-detractor": "Por favor, diga-nos o que deu errado e como podemos fazer melhor."
+        "feedback-placeholder-detractor": "Por favor, diga-nos o que deu errado e como podemos fazer melhor.",
+        "page-title": "Obrigado pelo seu feedback",
+        "meta-description": "Agradecemos por você ter dedicado tempo para compartilhar seus pensamentos. Suas percepções nos ajudam a melhorar e criar uma experiência melhor para todos."
     },
     "nl": {
         "testimonial": "Getuigenis",
@@ -426,7 +444,9 @@ var translations = {
         "feedback-placeholder-passive": "Wat vond u leuk en hoe kunnen we verder verbeteren?",
         "title-detractor": "Help ons verbeteren",
         "welcome-detractor": "Bedankt dat u de tijd heeft genomen om onze enquête in te vullen. Het spijt ons te horen dat de dingen niet aan uw verwachtingen voldeden. Uw eerlijke feedback helpt ons manieren te identificeren om te verbeteren.",
-        "feedback-placeholder-detractor": "Vertel ons alstublieft wat er mis ging en hoe we het beter kunnen doen."
+        "feedback-placeholder-detractor": "Vertel ons alstublieft wat er mis ging en hoe we het beter kunnen doen.",
+        "page-title": "Bedankt voor uw feedback",
+        "meta-description": "We waarderen dat u de tijd heeft genomen om uw gedachten te delen. Uw inzichten helpen ons te verbeteren en een betere ervaring voor iedereen te creëren."
     },
     "ru": {
         "testimonial": "Отзыв",
@@ -465,7 +485,9 @@ var translations = {
         "feedback-placeholder-passive": "Что вам понравилось, и как мы можем улучшиться дальше?",
         "title-detractor": "Помогите нам улучшиться",
         "welcome-detractor": "Спасибо, что нашли время, чтобы заполнить наш опрос. Нам жаль слышать, что вещи не соответствовали вашим ожиданиям. Ваши честные отзывы помогают нам определить способы улучшения.",
-        "feedback-placeholder-detractor": "Пожалуйста, расскажите нам, что пошло не так, и как мы можем сделать лучше."
+        "feedback-placeholder-detractor": "Пожалуйста, расскажите нам, что пошло не так, и как мы можем сделать лучше.",
+        "page-title": "Спасибо за ваш отзыв",
+        "meta-description": "Мы ценим, что вы нашли время поделиться своими мыслями. Ваши идеи помогают нам улучшаться и создавать лучший опыт для всех."
     },
     "ar": {
         "testimonial": "شهادة",
@@ -504,7 +526,9 @@ var translations = {
         "feedback-placeholder-passive": "ما الذي استمتعت به، وكيف يمكننا التحسين أكثر؟",
         "title-detractor": "ساعدنا على التحسين",
         "welcome-detractor": "شكراً على تخصيص وقت لإكمال استطلاعنا. يؤسفنا سماع أن الأمور لم تلب توقعاتك. تساعدنا ملاحظاتك الصادقة على تحديد طرق للتحسين.",
-        "feedback-placeholder-detractor": "الرجاء إخبارنا بما حدث وكيف يمكننا أن نقوم بعمل أفضل."
+        "feedback-placeholder-detractor": "الرجاء إخبارنا بما حدث وكيف يمكننا أن نقوم بعمل أفضل.",
+        "page-title": "شكراً على تعليقاتك",
+        "meta-description": "نقدر لك الوقت الذي قضيته في مشاركة أفكارك. تساعدنا رؤاك على التحسين وخلق تجربة أفضل للجميع."
     },
     "hi": {
         "testimonial": "प्रशंसापत्र",
@@ -543,7 +567,9 @@ var translations = {
         "feedback-placeholder-passive": "आपने क्या आनंद लिया, और हम आगे कैसे सुधार कर सकते हैं?",
         "title-detractor": "हमें सुधारने में मदद करें",
         "welcome-detractor": "हमारे सर्वेक्षण को पूरा करने के लिए समय निकालने के लिए धन्यवाद। हमें यह सुनकर खेद है कि चीजें आपकी अपेक्षाओं को पूरा नहीं कर सकीं। आपकी ईमानदार प्रतिक्रिया हमें सुधार के तरीके पहचानने में मदद करती है।",
-        "feedback-placeholder-detractor": "कृपया हमें बताएं कि क्या गलत हुआ और हम कैसे बेहतर कर सकते हैं।"
+        "feedback-placeholder-detractor": "कृपया हमें बताएं कि क्या गलत हुआ और हम कैसे बेहतर कर सकते हैं।",
+        "page-title": "आपकी प्रतिक्रिया के लिए धन्यवाद",
+        "meta-description": "हम आपके विचार साझा करने के लिए समय निकालने की सराहना करते हैं। आपकी अंतर्दृष्टि हमें सुधारने और सभी के लिए बेहतर अनुभव बनाने में मदद करती है।"
     },
     "bn": {
         "testimonial": "প্রশংসাপত্র",
@@ -582,7 +608,9 @@ var translations = {
         "feedback-placeholder-passive": "আপনি কি উপভোগ করেছেন, এবং আমরা কিভাবে আরও উন্নতি করতে পারি?",
         "title-detractor": "আমাদের উন্নতি করতে সাহায্য করুন",
         "welcome-detractor": "আমাদের সমীক্ষা সম্পূর্ণ করার জন্য সময় নেওয়ার জন্য ধন্যবাদ। জিনিসগুলি আপনার প্রত্যাশা পূরণ করেনি শুনে দুঃখিত। আপনার সৎ প্রতিক্রিয়া আমাদের উন্নতির উপায় চিহ্নিত করতে সাহায্য করে।",
-        "feedback-placeholder-detractor": "অনুগ্রহ করে আমাদের বলুন কী ভুল হয়েছে এবং আমরা কিভাবে আরও ভালো করতে পারি।"
+        "feedback-placeholder-detractor": "অনুগ্রহ করে আমাদের বলুন কী ভুল হয়েছে এবং আমরা কিভাবে আরও ভালো করতে পারি।",
+        "page-title": "আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ",
+        "meta-description": "আপনার চিন্তাভাবনা শেয়ার করার জন্য সময় নেওয়ার জন্য আমরা আপনাকে ধন্যবাদ জানাই। আপনার অন্তর্দৃষ্টি আমাদের উন্নতি করতে এবং সবার জন্য একটি আরও ভাল অভিজ্ঞতা তৈরি করতে সাহায্য করে।"
     },
     "id": {
         "testimonial": "Testimoni",
@@ -621,7 +649,9 @@ var translations = {
         "feedback-placeholder-passive": "Apa yang Anda nikmati, dan bagaimana kami dapat meningkatkan lebih lanjut?",
         "title-detractor": "Bantu Kami Meningkat",
         "welcome-detractor": "Terima kasih telah meluangkan waktu untuk menyelesaikan survei kami. Kami menyesal mendengar bahwa hal-hal tidak memenuhi harapan Anda. Umpan balik jujur Anda membantu kami mengidentifikasi cara untuk meningkat.",
-        "feedback-placeholder-detractor": "Tolong beri tahu kami apa yang salah dan bagaimana kami dapat melakukannya dengan lebih baik."
+        "feedback-placeholder-detractor": "Tolong beri tahu kami apa yang salah dan bagaimana kami dapat melakukannya dengan lebih baik.",
+        "page-title": "Terima Kasih atas Umpan Balik Anda",
+        "meta-description": "Kami menghargai Anda telah meluangkan waktu untuk berbagi pemikiran Anda. Wawasan Anda membantu kami meningkatkan dan menciptakan pengalaman yang lebih baik bagi semua orang."
     },
     "vi": {
         "testimonial": "Lời chứng thực",
@@ -660,7 +690,9 @@ var translations = {
         "feedback-placeholder-passive": "Bạn thích điều gì, và làm thế nào chúng tôi có thể cải thiện hơn nữa?",
         "title-detractor": "Giúp chúng tôi cải thiện",
         "welcome-detractor": "Cảm ơn bạn đã dành thời gian hoàn thành khảo sát của chúng tôi. Chúng tôi rất tiếc khi nghe rằng mọi thứ không đáp ứng kỳ vọng của bạn. Phản hồi chân thành của bạn giúp chúng tôi xác định các cách để cải thiện.",
-        "feedback-placeholder-detractor": "Vui lòng cho chúng tôi biết điều gì đã sai và chúng tôi có thể làm tốt hơn như thế nào."
+        "feedback-placeholder-detractor": "Vui lòng cho chúng tôi biết điều gì đã sai và chúng tôi có thể làm tốt hơn như thế nào.",
+        "page-title": "Cảm ơn phản hồi của bạn",
+        "meta-description": "Chúng tôi đánh giá cao việc bạn đã dành thời gian chia sẻ suy nghĩ của mình. Những hiểu biết sâu sắc của bạn giúp chúng tôi cải thiện và tạo ra trải nghiệm tốt hơn cho mọi người."
     },
     "tr": {
         "testimonial": "Referans",
@@ -699,7 +731,9 @@ var translations = {
         "feedback-placeholder-passive": "Nelerden hoşlandınız ve nasıl daha da geliştirebiliriz?",
         "title-detractor": "Gelişmemize yardımcı olun",
         "welcome-detractor": "Anketimizi tamamlamak için zaman ayırdığınız için teşekkür ederiz. İşlerin beklentilerinizi karşılamamasına üzüldük. Dürüst geri bildiriminiz, gelişme yollarını belirlememize yardımcı oluyor.",
-        "feedback-placeholder-detractor": "Lütfen neyin yanlış gittiğini ve nasıl daha iyi yapabileceğimizi bize söyleyin."
+        "feedback-placeholder-detractor": "Lütfen neyin yanlış gittiğini ve nasıl daha iyi yapabileceğimizi bize söyleyin.",
+        "page-title": "Geri Bildiriminiz için Teşekkürler",
+        "meta-description": "Düşüncelerinizi paylaşmak için zaman ayırdığınız için teşekkür ederiz. Görüşleriniz, gelişmemize ve herkes için daha iyi bir deneyim yaratmamıza yardımcı oluyor."
     },
     "pl": {
         "testimonial": "Referencje",
@@ -738,7 +772,9 @@ var translations = {
         "feedback-placeholder-passive": "Co Ci się podobało i jak możemy jeszcze bardziej się poprawić?",
         "title-detractor": "Pomóż nam się poprawić",
         "welcome-detractor": "Dziękujemy za poświęcenie czasu na wypełnienie naszej ankiety. Przykro nam słyszeć, że rzeczy nie spełniły Twoich oczekiwań. Twoja szczera opinia pomaga nam zidentyfikować sposoby na poprawę.",
-        "feedback-placeholder-detractor": "Proszę, powiedz nam, co poszło nie tak i jak możemy to zrobić lepiej."
+        "feedback-placeholder-detractor": "Proszę, powiedz nam, co poszło nie tak i jak możemy to zrobić lepiej.",
+        "page-title": "Dziękujemy za Twoją opinię",
+        "meta-description": "Doceniamy, że poświęciłeś czas na podzielenie się swoimi przemyśleniami. Twoje spostrzeżenia pomagają nam się doskonalić i tworzyć lepsze doświadczenia dla wszystkich."
     },
     "uk": {
         "testimonial": "Відгук",
@@ -777,7 +813,9 @@ var translations = {
         "feedback-placeholder-passive": "Що вам сподобалося, і як ми можемо ще покращитися?",
         "title-detractor": "Допоможіть нам покращитися",
         "welcome-detractor": "Дякуємо, що знайшли час заповнити наше опитування. Нам шкода чути, що речі не відповідали вашим очікуванням. Ваш чесний відгук допомагає нам визначити шляхи для покращення.",
-        "feedback-placeholder-detractor": "Будь ласка, розкажіть нам, що пішло не так і як ми можемо зробити краще."
+        "feedback-placeholder-detractor": "Будь ласка, розкажіть нам, що пішло не так і як ми можемо зробити краще.",
+        "page-title": "Дякуємо за ваш відгук",
+        "meta-description": "Ми цінуємо, що ви знайшли час поділитися своїми думками. Ваші ідеї допомагають нам вдосконалюватися та створювати кращий досвід для всіх."
     },
     "sv": {
         "testimonial": "Rekommendation",
@@ -816,7 +854,9 @@ var translations = {
         "feedback-placeholder-passive": "Vad gillade du och hur kan vi förbättra ytterligare?",
         "title-detractor": "Hjälp oss att förbättra",
         "welcome-detractor": "Tack för att du tog dig tid att fylla i vår enkät. Vi är ledsna att höra att saker inte mötte dina förväntningar. Din ärliga återkoppling hjälper oss att identifiera sätt att förbättra oss.",
-        "feedback-placeholder-detractor": "Berätta gärna vad som gick fel och hur vi kan göra bättre."
+        "feedback-placeholder-detractor": "Berätta gärna vad som gick fel och hur vi kan göra bättre.",
+        "page-title": "Tack för din feedback",
+        "meta-description": "Vi uppskattar att du tog dig tid att dela dina tankar. Dina insikter hjälper oss att förbättra och skapa en bättre upplevelse för alla."
     },
     "no": {
         "testimonial": "Anbefaling",
@@ -855,7 +895,9 @@ var translations = {
         "feedback-placeholder-passive": "Hva likte du, og hvordan kan vi forbedre oss ytterligere?",
         "title-detractor": "Hjelp oss å forbedre oss",
         "welcome-detractor": "Takk for at du tok deg tid til å fullføre undersøkelsen vår. Vi er lei for å høre at ting ikke møtte forventningene dine. Din ærlige tilbakemelding hjelper oss å identifisere måter å forbedre oss på.",
-        "feedback-placeholder-detractor": "Vennligst fortell oss hva som gikk galt og hvordan vi kan gjøre det bedre."
+        "feedback-placeholder-detractor": "Vennligst fortell oss hva som gikk galt og hvordan vi kan gjøre det bedre.",
+        "page-title": "Takk for tilbakemeldingen din",
+        "meta-description": "Vi setter pris på at du tok deg tid til å dele tankene dine. Dine innspill hjelper oss å forbedre oss og skape en bedre opplevelse for alle."
     },
     "da": {
         "testimonial": "Anbefaling",
@@ -894,7 +936,9 @@ var translations = {
         "feedback-placeholder-passive": "Hvad nød du, og hvordan kan vi forbedre os yderligere?",
         "title-detractor": "Hjælp os med at forbedre os",
         "welcome-detractor": "Tak fordi du tog dig tid til at udfylde vores undersøgelse. Vi er kede af at høre, at tingene ikke levede op til dine forventninger. Din ærlige feedback hjælper os med at identificere måder at forbedre os på.",
-        "feedback-placeholder-detractor": "Fortæl os venligst, hvad der gik galt, og hvordan vi kan gøre det bedre."
+        "feedback-placeholder-detractor": "Fortæl os venligst, hvad der gik galt, og hvordan vi kan gøre det bedre.",
+        "page-title": "Tak for din feedback",
+        "meta-description": "Vi sætter pris på, at du tog dig tid til at dele dine tanker. Dine indsigter hjælper os med at forbedre og skabe en bedre oplevelse for alle."
     },
     "fi": {
         "testimonial": "Suositus",
@@ -932,7 +976,9 @@ var translations = {
         "feedback-placeholder-passive": "Mistä pidit ja miten voimme parantaa edelleen?",
         "title-detractor": "Auta meitä parantamaan",
         "welcome-detractor": "Kiitos, että käytit aikaa kyselymme täyttämiseen. Olemme pahoillamme kuullessamme, että asiat eivät vastanneet odotuksiasi. Rehellinen palautteesi auttaa meitä tunnistamaan parannuskeinoja.",
-        "feedback-placeholder-detractor": "Kerro meille, mikä meni vikaan ja miten voimme tehdä paremmin."
+        "feedback-placeholder-detractor": "Kerro meille, mikä meni vikaan ja miten voimme tehdä paremmin.",
+        "page-title": "Kiitos palautteestasi",
+        "meta-description": "Arvostamme, että käytit aikaa ajatustesi jakamiseen. Näkemyksesi auttavat meitä parantamaan ja luomaan paremman kokemuksen kaikille."
     },
     "el": {
         "testimonial": "Μαρτυρία",
@@ -971,7 +1017,9 @@ var translations = {
         "feedback-placeholder-passive": "Τι απολαύσατε και πώς μπορούμε να βελτιωθούμε περαιτέρω;",
         "title-detractor": "Βοηθήστε μας να βελτιωθούμε",
         "welcome-detractor": "Σας ευχαριστούμε που αφιερώσατε χρόνο για να συμπληρώσετε την έρευνά μας. Λυπούμαστε που ακούμε ότι τα πράγματα δεν ανταποκρίθηκαν στις προσδοκίες σας. Η ειλικρινής ανατροφοδότησή σας μας βοηθά να εντοπίσουμε τρόπους βελτίωσης.",
-        "feedback-placeholder-detractor": "Παρακαλούμε πείτε μας τι πήγε στραβά και πώς μπορούμε να το κάνουμε καλύτερα."
+        "feedback-placeholder-detractor": "Παρακαλούμε πείτε μας τι πήγε στραβά και πώς μπορούμε να το κάνουμε καλύτερα.",
+        "page-title": "Ευχαριστούμε για τα σχόλιά σας",
+        "meta-description": "Εκτιμούμε το χρόνο που αφιερώσατε για να μοιραστείτε τις σκέψεις σας. Οι ιδέες σας μας βοηθούν να βελτιωθούμε και να δημιουργήσουμε μια καλύτερη εμπειρία για όλους."
     },
     "he": {
         "testimonial": "המלצה",
@@ -1010,7 +1058,9 @@ var translations = {
         "feedback-placeholder-passive": "ממה נהנית, ואיך אנחנו יכולים לשפר עוד יותר?",
         "title-detractor": "עזור לנו להשתפר",
         "welcome-detractor": "תודה שהקדשת זמן למילוי הסקר שלנו. אנו מצטערים לשמוע שהדברים לא עמדו בציפיות שלך. המשוב הכן שלך עוזר לנו לזהות דרכים לשיפור.",
-        "feedback-placeholder-detractor": "אנא ספר לנו מה השתבש ואיך אנחנו יכולים לעשות זאת טוב יותר."
+        "feedback-placeholder-detractor": "אנא ספר לנו מה השתבש ואיך אנחנו יכולים לעשות זאת טוב יותר.",
+        "page-title": "תודה על המשוב שלך",
+        "meta-description": "אנו מעריכים שהקדשת זמן לשתף את מחשבותיך. התובנות שלך עוזרות לנו להשתפר וליצור חוויה טובה יותר לכולם."
     },
     "fil": {
         "testimonial": "Testimonial",
@@ -1049,7 +1099,9 @@ var translations = {
         "feedback-placeholder-passive": "Ano ang iyong kinagalakan, at paano pa kami mapapahusay?",
         "title-detractor": "Tulungan Kaming Mapabuti",
         "welcome-detractor": "Salamat sa paglaan ng oras para kumpletuhin ang aming survey. Ikinalulungkot naming malaman na ang mga bagay ay hindi nakatugon sa iyong mga inaasahan. Ang iyong tapat na feedback ay tumutulong sa amin na matukoy ang mga paraan upang mapabuti.",
-        "feedback-placeholder-detractor": "Mangyaring sabihin sa amin kung ano ang nagkamali at kung paano namin ito maaaring gawin nang mas mahusay."
+        "feedback-placeholder-detractor": "Mangyaring sabihin sa amin kung ano ang nagkamali at kung paano namin ito maaaring gawin nang mas mahusay.",
+        "page-title": "Salamat sa Iyong Feedback",
+        "meta-description": "Pinahahalagahan namin na naglaan ka ng oras para ibahagi ang iyong mga saloobin. Ang iyong mga pananaw ay tumutulong sa amin na bumuti at lumikha ng mas mahusay na karanasan para sa lahat."
     },
     "yue": {
         "testimonial": "推薦",
@@ -1088,6 +1140,8 @@ var translations = {
         "feedback-placeholder-passive": "你享受咗乜嘢，我哋可以點樣進一步改進?",
         "title-detractor": "幫助我哋改進",
         "welcome-detractor": "多謝你抽出時間完成我哋嘅調查。我哋好遺憾聽到呢啲嘢冇達到你嘅期望。你嘅真誠反饋幫助我哋找出改進嘅方法。",
-        "feedback-placeholder-detractor": "請告訴我哋咩出咗問題，我哋可以點樣做得更好。"
+        "feedback-placeholder-detractor": "請告訴我哋咩出咗問題，我哋可以點樣做得更好。",
+        "page-title": "多謝你嘅反饋",
+        "meta-description": "多謝你抽出時間分享你嘅諗法。你嘅見解幫助我哋改進並為所有人創造更好嘅體驗。"
     }
 };
